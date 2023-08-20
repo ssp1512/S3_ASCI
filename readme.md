@@ -25,7 +25,7 @@ The Disaster Management Tool with Weather Prediction is a software application t
 
 1. Clone this repository to your local machine.
    ```bash
-   1. git clone https://github.com/yourusername/disaster-management-tool.git
+   1. git clone https://github.com/ssp1512/disaster-management-tool.git
 
 
    2.  pip install -r requirements.txt

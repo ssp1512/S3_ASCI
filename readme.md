@@ -5,7 +5,7 @@
 
 # Disaster Management Tool with Weather Prediction using Machine Learning
 
-![Disaster Management Tool](images/tool_screenshot.png)
+
 
 The Disaster Management Tool with Weather Prediction is a software application that leverages machine learning models to predict weather conditions and assist in disaster management planning. This tool aims to provide timely and accurate weather predictions, allowing authorities and emergency responders to make informed decisions and take proactive measures to mitigate the impact of disasters.
 
@@ -47,3 +47,7 @@ Machine Learning: Machine learning libraries such as TensorFlow and Scikit-learn
 Flask: The web application framework Flask is utilized to develop the user interface and handle the backend logic.
 
 Leaflet: The Leaflet library is used for interactive mapping, allowing users to visualize weather predictions on a map.
+
+Python packages
+    * pandas
+    * scikit-learn
